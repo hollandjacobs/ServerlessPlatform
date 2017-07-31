@@ -1,0 +1,6 @@
+export const ADD_PURCHASES = 'ADD_PURCHASES'
+export const RECIEVE_PURCHASES = 'RECIEVE_PURCHASES'
+
+export const REGISTER_USER = 'REGISTER_USER'
+export const VERIFY_USER = 'VERIFY_USER'
+export const LOGIN_USER = 'LOGIN_USER'
